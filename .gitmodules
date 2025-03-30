@@ -1,0 +1,6 @@
+[submodule "suckless/st"]
+	path = suckless/st
+	url = https://github.com/iwakurakurea/st
+[submodule "suckless/dwm"]
+	path = suckless/dwm
+	url = https://github.com/iwakurakurea/dwm

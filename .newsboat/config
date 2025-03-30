@@ -1,0 +1,10 @@
+include /usr/share/doc/newsboat/contrib/colorschemes/universal-color
+
+max-items 2000
+
+auto-reload yes
+
+browser "xdg-open %u"
+
+macro v set browser "mpv %u --fs"
+macro t set browser "xdg-open %u"

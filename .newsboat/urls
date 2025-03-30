@@ -1,0 +1,140 @@
+# https://wiki.archlinux.org/title/Newsboat
+# ap news (updates but returned .xml is empty)
+# http://associated-press.s3-website-us-east-1.amazonaws.com/us-news.xml
+# arch news
+
+"query:Youtube:tags # \"youtube\""
+"query:Linux/Tech Youtube:(tags # \"youtube\") and ( (tags # \"linux\") or (tags # \"tech\") )"
+"query:Rainbow Six Siege:tags # \"siege\""
+"query:Gaming:tags # \"gaming\""
+"query:Language:tags # \"language\""
+"query:Food:tags # \"food\""
+"query:Comedy:tags # \"comedy\""
+"query:Japan:tags # \"japan\""
+
+
+
+https://archlinux.org/feeds/news/ linux tech text
+
+# Good content (miscellaneous)
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3cpN6gcJQqcCM6mxRUo_dA "~Wendigoon" youtube yt "video essays" !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCuiFPtZw1o4itgKtDGyGoAg "~Delightful Kissboy" youtube yt gambling statistics math !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCS5tt2z_DFvG7-39J3aE-bQ "~Life of Boris" youtube yt comedy cooking food gaming slav !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqq5t2vi_G753e19j6U-Ypg "~Femboy Fishing" youtube yt lgbt fishing !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCj1VqrHhDte54oLgPG4xpuQ "~Stuff Made Here" youtube yt maker !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOT2iLov0V7Re7ku_3UBtcQ "~hankschannel" youtube yt science !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHPIPQTnEMeB9vW9uDc1yGA "~starpowerdrummer" youtube yt music breakcore drums !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdC0An4ZPNr_YiFiYoVbwaw "~Daily Dose of Internet" youtube yt memes !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcdsLJCHpSh8-ZsKS4YyUGA "~BikingDC" youtube yt biking delivery !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoZ9LOmu2J3d6dex2l-Md1Q "~Cities By Diana" youtube yt cities transit !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCg0VO_LJZjTzubUQ34CwnLQ "~T. Folse Nuclear" youtube yt science nuclear !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJm8Q-9K_8n-UBrgwEo4yLA "~ARIatHOME" youtube yt music freestyle street !
+https://www.youtube.com/feeds/videos.xml?channel_id=UChwbfG8UvnLOJ_WgRiAaPBA "~Brad Taste In Music" youtube yt music reviews !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdc_JyNaB5VJ0gdWUtWfGDg "~PyroLIVE" youtube yt slop !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCK70H_67YRgeA513ZHA2TIg "~JaDropping Science" youtube yt science !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCblfuW_4rakIf2h6aqANefA "~Red Bull" youtube yt sports "hell yeah" !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ "~Doug Sharpe" youtube yt "fun fact" !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLO9n5sEoTKsDFMfqCPHt9A "~narrowayhomestead" youtube yt homestead !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrNlTPz0S19qL3GiHqV8Yug "~Utahforrest (KI7QCF)" youtube yt morse radio !
+
+# Language
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9XwYmyLK1GsVe9_D7FHMqw "~TheLingOtter" youtube yt language !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtcpZUYmgqcZn6nq3ofzZ7w "~Nardi" youtube yt language ! 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLGwUDDVdklBiKi3NeDAlyA "~wordsatwork" youtube yt language !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNHb7I85BKnwbJF4fWBXJjA "~Etymology Nerd" youtube yt language !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNtThoaq14pIorP2OmArt5w "~human1011" youtube yt language !
+
+# Techy/Linux
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw "~The Linux Experiment" linux news youtube yt !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMiyV_Ib77XLpzHPQH_q0qQ "~Veronica Explains" linux tech youtube yt !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsbmzVl1byLQmc79Ff4xgIg "~Veronica Explains Nothing" youtube yt linux tech !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw "~Linus Tech Tips" tech youtube yt !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA "~Fireship" youtube yt tech news dev !
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1E-JS8L0j1Ei70D9VEFrPQ "~Low Level" youtube yt tech news dev !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCP399QC1HNG2CtpzvmelWEg "~pacarana abel cirilo" youtube yt tech dev !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZgt6AzoyjslHTC9dz0UoTw "~ByteByteGo" youtube yt tech dev !
+
+# Rainbow Six Siege
+https://www.youtube.com/feeds/videos.xml?channel_id=UCj5yV97lCBz0xHDG6zTSSpA "~Fett" youtube yt siege gaming esports coaching analysis grim !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbE6TtMNc62m7d20j9tdeVw "~Spoit" youtube yt siege gaming !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjiXtODGCCulmhwypZAWSag "~Jynxzi" youtube yt siege gaming !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyNzZ1wgkOWkzYE0zbs7zhA "~Jynxzi Live" youtube yt siege gaming !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjXMoTV6nMR0kaUFRvbs5bw "~Snapiyy" youtube yt siege gaming comedy !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCF06mNRE8z1N__xNnsnoKzw "~Athenio" youtube yt siege gaming lesion !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCI_9XQVybf6YixFHUMqvVXQ "~Ricci" youtube yt siege gaming !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCdGD0HExcSYnVTmwTMguEw "~Mingo" youtube yt siege gaming !
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8gpOYurLWlhEiO6qgDeXJQ "~Hybear" youtube yt siege esports analysis gaming !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCN4BEd9ynmZ51ItK3wD4iGA "~メルトン" youtube yt siege gaming japan language !
+
+# Gameing
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9ek8xUVjnmQ-q7f6CTwtxg "~AstralSpiff" youtube yt gaming fnaf !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCN5xN8gIljvWYnsj06V8WbQ "~Pyrocynical" youtube yt gaming !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWzLmNWhgeh3h1j-M-Isy0g "~TheRussianBadger" youtube yt gaming comedy !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyfaENvEJvsddDZtYBI4t0g "~A Buff Wizard" youtube yt gaming postal !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCk6mN7s3Orj0LbmHdzVg05A "~Bub Games" youtube yt gaming comedy trolling !
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7_YxT-KID8kRbqZo7MyscQ "~Markiplier" youtube yt gaming !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrPseYLGpNygVi34QpGNqpA "~Ludwig" youtube yt gaming !
+
+# Comedy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYMKvKclvVtQZbLrV2v-_5g "~Daniel Hentschel" youtube yt comedy !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyWDmyZRjrGHeKF-ofFsT5Q "~Internet Comment Etiquette with Erik" youtube yt comedy politics !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfbnTUxUech4P1XgYUwYuKA "~Cold Ones" youtube yt comedy alcohol !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPcFg7aBbaVzXoIKSNqwaww "~jacksfilms" youtube yt comedy !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCTjqo_3046IXFFGZ_M5jedA "~jackisanerd" youtube yt comedy !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMUyG01MXNeiTykIlvWwIRQ "~JJJacksfilms" youtube yt comedy "credit the creators" !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpnkp_D4FLPCiXOmDhoAeYA "~UnusualVideos" youtube yt comedy memes !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCupQd0e1leK4-Mj1wSfnkoQ "~al jokes" youtube yt comedy !
+https://www.youtube.com/feeds/videos.xml?channel_id=UConQeJRfaLwJ9LbXBS5nhxQ "~Charlie Berens" youtube yt comedy midwest !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCYWagpWEequTwx61dYGT0w "~Gianmarco Soresi" youtube yt comedy elbows !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOemGGOeTiU_gZPk_hGxUTA "~HIVEMIND" youtube yt comedy music !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoEpkKAU5FWRblRzfcIY-Mw "~HIVEMIND UNLIMITED" youtube yt comedy !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSoJcY9wS0_L2yWOTWJWV5Q "~Make Some Noise" youtube yt comedy dropout !
+
+# Cooking / foodie
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXvCI4YnkGhGV8ei4vE9h4A "~Jose.elcook" youtube yt cooking food !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCES10bTlE0SwApUaU4IKvdQ "~Upbeat Eats" youtube yt cooking food !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCF3jMqkgvFRb6KBbSfsFFtQ "~FutureCanoe" youtube yt cooking food !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWUX7SqCqCoG6VarZNXR7OQ "~Chef Thomson" youtube yt cooking food !
+https://www.youtube.com/feeds/videos.xml?channel_id=UChBEbMKI1eCcejTtmI32UEw "~Joshua Weissman" youtube yt cooking food !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCt80koRTG61DmNCp4oybLSg "~Senpai Kai" youtube yt cooking food !
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4qH2GLDyj0AhG4cPsLJrhw "~Dylan Nobert" youtube yt cooking food !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNzFhleZyCHPeIgmp-McMmQ "~Japan Eat" youtube yt food japan !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYUPD1QyZStSkdRvG9FPQ4A "~Bento Club" youtube yt food japan !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoORG3Kgz9NQybnMnilunDQ "~SoPhoCho" youtube yt food costco !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqNkn5PNeSqbQTAR5RP-L-Q "~Andy Cooks" youtube yt food cooking !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCuG-IHDOVyVXaKV92x3jU5Q "~Johnny Kyunghwo" youtube yt food cooking !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqdO39YlloDBxG5P28qATuA "~Ian Kyo" youtube yt food cooking !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBYHENwbakRMVm23tESy1-A "~SteveatVivaldi" youtube yt food cooking !
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_BoFBeorNkJnNdbtV7R5GA "~barefoodtim" youtube yt food cooking !
+
+# Lifestyle
+https://www.youtube.com/feeds/videos.xml?channel_id=UCL9Y2MYhBUT0rgOi1q6JeCQ "~Dear Modern" youtube yt lifestyle "feng shui" !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCM2ra7Od2jliHB9TLPKt76w "~MovementbyDavid" youtube yt lifestyle exercise stretch !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxXqeNx2u6mLcFiPrX3-G_g "~theweeklyslap" youtube yt lifestyle advice "real spill" !
+
+# Politics and world news
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3XTzVzaHQEd30rQbuvCtTQ "~Last Week Tonight" youtube yt news politics !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtoaZpBnrd0lhycxYJ4MNOQ "~HasanAbi" youtube yt news politics !
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1E-JS8L0j1Ei70D9VEFrPQ "~Vaush" youtube yt news politics !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdUD6racxisHiSX9iWFcuug "~The Vaush Pit" youtube yt news politics !
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0intLFzLaudFG-xAvUEO-A "~Not Just Bikes" youtube yt politics transit cities !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsIc8Tq-YSFY3BViLJG4d1A "~Stickman Talks" youtube yt politics news !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgsCiwJ88up-YyMHo7hL5-A "~Civ Div" youtube yt military ukraine !
+https://www.youtube.com/feeds/videos.xml?channel_id=UC415bOPUcGSamy543abLmRA "~Cleo Abram" youtube yt science stories news !
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-AQKm7HUNMmxjdS371MSwg "~Channel 5 with Andrew Callaghan" youtube yt stories politics news !
+
+# The Japan Section
+https://www.youtube.com/feeds/videos.xml?channel_id=UCo_qOsi_-M5cNgNvMB6vPuw "~Japanalysis" youtube yt japan stories !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCq7nXDX98k4uX84AjoJgOFQ "~bungu" youtube yt japan stationery !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCccNFAkYqVkmS9fyT1KvHQg "~Kyota Ko" youtube yt culture japan stories !
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2_krAagEXVPftDXZCDiVZA "~Kaname Naito" youtube yt japan language !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSX0NhNdBA-ZnEFkYFzdw4A "~Dogen" youtube yt japan comedy culture !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXvbilRzK1DrcrYM_0-BxfQ "~thehitobito" youtube yt japan culture stories !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyIhBDft5f3kj4Xcua3p3kQ "~Real Real Japan" youtube yt japan comedy language !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLp9rnRAcrFSzsoXsjXYJYA "~Japanese super immersion" youtube yt japan language !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPSx50w7WavmAXmYowlhNWQ "~TAKASHii" youtube yt japan culture stories interview !
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYtqBSB1O6dxQJ0Z4f5lC7g "~pigallisme" youtube yt japan culture travel !
+
+# Text (blogs and such)
+https://vkc.sh/feed/ tech linux text
+https://reddit.com/r/NHKEasyNews/.rss news japan text
