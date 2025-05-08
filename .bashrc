@@ -5,7 +5,7 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-model='deepseek-r1'
+model='qwen2.5'
 
 news=$(newsboat -x print-unread)
 
@@ -23,7 +23,7 @@ alias grep='grep --color=auto'
 # alias icat='kitten icat'
 eza --icons=always
 # icat --align=right Pictures/splash.jpg
-printf "newsboat : %s" "$news"
+cowsay -f sus "newsboat : ${news}"
 eval $(/home/clair/.cargo/bin/zoxide init bash --cmd 'cd')
 eval $(/home/clair/.cargo/bin/starship init bash)
 #. /home/clair/.cargo/env 

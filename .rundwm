@@ -1,9 +1,9 @@
 #!/bin/sh
 
 exec ~/Scripts/status.sh "figure out how to get random quotes :3" &
-exec fcitx5 &
-exec ~/.fehbg &
-exec redshift &
+exec fcitx5 &		# for japanese input
+exec ~/.fehbg &		# for desktop background
+exec redshift &		# for bluelight filter
 
 while true; do
 	dwm

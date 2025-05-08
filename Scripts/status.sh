@@ -39,8 +39,8 @@ while true; do
 	hour=$(date +%H)
 	minute=$(date +%M)
 	second=$(date +%S)
-	bat_per=$(upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep percentage | tail -c 5)
-	japanese_date="${year}年${month}月${day}日（${day_of_week_kanji}） ${hour}時${minute}分"
+	bat_per=$(upower -i /org/freedesktop/UPower/devices/battery_BAT0 | awk '/percentage/{print $NF}')
+	japanese_date="${year}年${month}月${day}日（${day_of_week_kanji}曜日）${hour}時${minute}分"
 	xsetroot -name "󱓧 ${stdin} 󰃰 ${japanese_date} 󰁹 ${bat_per}"
 	sleep 1m    # Update time every minute
 done &
